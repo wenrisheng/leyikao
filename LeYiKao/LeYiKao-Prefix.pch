@@ -1,0 +1,28 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define UIScreenWidth [[UIScreen mainScreen] bounds].size.width
+#define UIScreenHeight [[UIScreen mainScreen] bounds].size.height
+
+#define DOCUMENT_PATH \
+[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0]
+
+#define baseURL @"http://192.168.1.103:81/index.php"
+#define zuixinzixunurl @"http://192.168.1.103:81"
+
+#define appid 100559216
+#define appkey 69a2f86b35c4e0dfafa81452a3430913
