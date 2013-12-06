@@ -108,6 +108,7 @@
 		2BAA7B4A180BF39100FBF340 /* GRAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BAA7B49180BF39100FBF340 /* GRAlertView.m */; };
 		2BAA7B4C180BF4B400FBF340 /* 填充-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BAA7B4B180BF4B400FBF340 /* 填充-01.png */; };
 		2BAA7B4F180BF51F00FBF340 /* UIAlertView+customShow.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BAA7B4E180BF51F00FBF340 /* UIAlertView+customShow.m */; };
+		2BCB38B11851B0BB0025D3D4 /* 登陆风车-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BCB38B01851B0BB0025D3D4 /* 登陆风车-01.png */; };
 		2BD0C3051814F50500F65ADC /* ChuanmeiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD0C3031814F50500F65ADC /* ChuanmeiViewController.m */; };
 		2BD0C3061814F50500F65ADC /* ChuanmeiViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2BD0C3041814F50500F65ADC /* ChuanmeiViewController.xib */; };
 		2BD0C30A1814F51800F65ADC /* MusicViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD0C3081814F51800F65ADC /* MusicViewController.m */; };
@@ -402,6 +403,7 @@
 		2BAA7B4B180BF4B400FBF340 /* 填充-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "填充-01.png"; sourceTree = "<group>"; };
 		2BAA7B4D180BF51F00FBF340 /* UIAlertView+customShow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+customShow.h"; sourceTree = "<group>"; };
 		2BAA7B4E180BF51F00FBF340 /* UIAlertView+customShow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertView+customShow.m"; sourceTree = "<group>"; };
+		2BCB38B01851B0BB0025D3D4 /* 登陆风车-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "登陆风车-01.png"; sourceTree = "<group>"; };
 		2BD0C3021814F50500F65ADC /* ChuanmeiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChuanmeiViewController.h; sourceTree = "<group>"; };
 		2BD0C3031814F50500F65ADC /* ChuanmeiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChuanmeiViewController.m; sourceTree = "<group>"; };
 		2BD0C3041814F50500F65ADC /* ChuanmeiViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ChuanmeiViewController.xib; sourceTree = "<group>"; };
@@ -1002,6 +1004,7 @@
 		2B4F661A18094878005CFB6E /* 登陆注册 */ = {
 			isa = PBXGroup;
 			children = (
+				2BCB38B01851B0BB0025D3D4 /* 登陆风车-01.png */,
 				2BAA7B4B180BF4B400FBF340 /* 填充-01.png */,
 				2B30A2B1180BC62000A50A6B /* btn_radio_off.png */,
 				2B30A2B2180BC62000A50A6B /* btn_radio_on.png */,
@@ -1413,6 +1416,7 @@
 				2B30A1D2180B92C900A50A6B /* beijing.jpg in Resources */,
 				2BE23D51180E2D4100C909DA /* 2-01-01-01-01-01-01-01-01-01-01-01.png in Resources */,
 				2B0EEE7C180D1237009E8BB5 /* shadow-01.png in Resources */,
+				2BCB38B11851B0BB0025D3D4 /* 登陆风车-01.png in Resources */,
 				2B0159781819197C00540104 /* EnrollStuIntrolViewController.xib in Resources */,
 				2BE23D54180E2D4100C909DA /* 2-01-01-01-01-01-01-01-01.png in Resources */,
 				2B015987181919C600540104 /* WenhuaFenshuViewController.xib in Resources */,
